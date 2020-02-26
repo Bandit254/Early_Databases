@@ -13,7 +13,9 @@
    I have included as many of those rudimentary Access databases in this repository as I could recover, each with its own ReadMe to explain more in depth my thought process behind creating it. I have made this repository primarily as a reminder of why I got into programming in the first place - to solve real problems in a way that is commonsense and intuitive. I hate being limited by old tools/methods if I know that better ways of doing business exist. As I learn more about programming and databases, the cloud and web applications, I aim to not simply use the newest techniques but to create new techniques. 
    ![Personnel Security Management Database](https://github.com/Bandit254/Early_Databases/blob/master/1-37%20AR%20PERSEC%20Database/1-37%20AR%20PERSEC%20Database%20Screenshot.jpg)
 
+![Equipment Tracking Database](https://github.com/Bandit254/Early_Databases/blob/master/MICO%20Property%20Database/MICO%20Equipment%20Database%20Screenshot.jpg)
 
+![Deployment Equipment Database](https://github.com/Bandit254/Early_Databases/blob/master/Deployment%20Equipment%20Tracking%20Database/Deployment%20Equipment%20Database%20Screenshot.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MDc4MDc4LC0xNDEzMDQyMzQ3XX0=
+eyJoaXN0b3J5IjpbNzk2NTc3MDQzLC0xNDEzMDQyMzQ3XX0=
 -->
